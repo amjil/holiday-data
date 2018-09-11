@@ -8,6 +8,8 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
+lein run -y 2018
+
 FIXME: explanation
 
     $ java -jar holiday-data-0.1.0-standalone.jar [args]
