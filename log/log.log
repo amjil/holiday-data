@@ -1,0 +1,20 @@
+2018-09-11 13:58:14,810 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 13:58:51,255 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:00:01,587 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:00:50,218 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:01:30,307 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:03:19,185 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:05:25,742 [main] INFO  amjil.core - #'amjil.config/env started 
+2018-09-11 14:05:25,746 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:06:05,868 [main] INFO  amjil.core - #'amjil.config/env started 
+2018-09-11 14:06:05,872 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:06:46,676 [main] INFO  amjil.core - #'amjil.config/env started 
+2018-09-11 14:06:46,681 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:06:46,711 [main] WARN  amjil.core - {:options {:year 2018}, :arguments [], :summary   -y, --year YEAR  YEAR, :errors nil} 
+2018-09-11 14:07:34,389 [main] INFO  amjil.core - #'amjil.config/env started 
+2018-09-11 14:07:34,393 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:07:34,398 [main] WARN  amjil.core - 2018 
+2018-09-11 14:08:32,209 [main] INFO  amjil.core - #'amjil.config/env started 
+2018-09-11 14:08:32,213 [main] INFO  amjil.core - #'amjil.db/td started 
+2018-09-11 14:08:35,423 [main] WARN  amjil.core - Deleted  2018  of data. 
+2018-09-11 14:12:47,973 [main] WARN  amjil.core - Inserted  2018  of data. 
